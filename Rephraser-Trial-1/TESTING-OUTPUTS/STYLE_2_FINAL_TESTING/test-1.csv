@@ -1,0 +1,85 @@
+summary,Rephrased Ans,len-summary,len-rephrased
+"{
+    ""summarized_answer"": ""- **Entrepreneurial Personality**: Focuses on individual traits like resilience, motivation, creativity, and risk-taking, essential for overcoming challenges and innovating. \n- **Entrepreneurial Task**: Involves identifying and executing opportunities, market needs, innovation, strategy planning, flexibility, and problem-solving. \n- **External Environment**: Success is influenced by economic, social, political, and technological factors. A supportive environment with policies and resources fosters growth. \n- **Organizational Context**: Emphasizes the role of supportive structures, collaboration, defined roles, and innovation in established organizations for entrepreneurial and intrapreneurial development. \n- These elements collectively form a framework impacting entrepreneurial success or failure.""
+}","- **Entrepreneurial Personality**: Highlights traits such as resilience, motivation, creativity, and risk-taking, crucial for overcoming obstacles and fostering innovation. 
+- **Entrepreneurial Task**: Entails recognizing and acting on opportunities, addressing market demands, innovating, strategizing, adapting, and solving problems. 
+- **External Environment**: Success is shaped by economic, social, political, and technological influences. A nurturing environment with supportive policies and resources promotes growth. 
+- **Organizational Context**: Stresses the importance of supportive structures, teamwork, clear roles, and innovation within established organizations for fostering entrepreneurial and intrapreneurial growth. 
+- Together, these components create a framework that affects entrepreneurial success or failure.",843,832
+"{
+    ""summarized_answer"": ""An intrapreneur is an employee within a large company who acts like an entrepreneur, driving new business ideas and innovation. Key characteristics include: \n- **Liberty to Innovate**: Freedom to develop ideas, often isolated from regular workflows. \n- **Risk Mitigation**: Operates with company support, sharing risks and reducing personal financial exposure. \n- **Corporate Support**: Backed by management with access to resources like funding and infrastructure. \n- **Focus on Growth**: Encourages innovation to keep the company competitive and improve processes.""
+}","An intrapreneur is an employee in a large organization who behaves like an entrepreneur, fostering new business ideas and innovation. Key traits include: 
+- **Innovation Freedom**: Ability to create ideas, often away from standard workflows. 
+- **Risk Sharing**: Works with company backing, minimizing personal financial risk. 
+- **Management Support**: Receives backing from leadership with access to resources like funding and infrastructure. 
+- **Growth Orientation**: Promotes innovation to enhance competitiveness and improve processes.",601,541
+"```json
+{
+    ""summarized_answer"": ""Critical elements in an intrapreneurial environment include: \n- **Innovative Ideas**: Encouraging new ideas and staying updated with technology fosters innovative thinking. \n- **Promote Experimentation**: Supports learning from failures and refining ideas into successful outcomes. \n- **Availability of Resources**: Essential financial and human resources must be readily available for innovation. \n- **Foster Collaboration**: Encourages diverse views and skills, enhancing creativity and effectiveness. \n- **Reward System**: Motivates intrapreneurs through recognition and incentives, driving further innovation. \n- **Top Management Support**: Provides authority and resources, crucial for executing intrapreneurial ideas successfully.""
+}
+```","Key components of an intrapreneurial environment are: 
+- **Innovative Ideas**: Encouraging fresh concepts and keeping up with technology promotes creativity. 
+- **Promote Experimentation**: Supports learning from mistakes and refining ideas into successes. 
+- **Availability of Resources**: Necessary financial and human resources should be accessible for innovation. 
+- **Foster Collaboration**: Encourages diverse perspectives and skills, boosting creativity and efficiency. 
+- **Reward System**: Incentivizes intrapreneurs through recognition, fueling further innovation. 
+- **Top Management Support**: Provides necessary authority and resources for successful implementation of intrapreneurial initiatives.",785,710
+"{
+    ""summarized_answer"": ""Entrepreneurs can be classified based on various criteria: \n\n- **Economic Development**: \n  - *Innovating Entrepreneurs*: Innovators creating new products/services.\n  - *Adoptive Entrepreneurs*: Adapt others' innovations for their markets.\n  - *Fabian Entrepreneurs*: Risk-averse, prefer traditional methods.\n  - *Drone Entrepreneurs*: Resist change, miss new opportunities.\n\n- **Type of Business**: \n  - *Business Entrepreneurs*: Introduce new products/services.\n  - *Trading Entrepreneurs*: Focus on buying and selling.\n  - *Industrial Entrepreneurs*: Create products/services based on customer needs.\n  - *Corporate Entrepreneurs*: Innovate within corporate settings.\n  - *Agricultural Entrepreneurs*: Use technology to enhance agriculture.\n\n- **Technology Utilization**: \n  - *Technical Entrepreneurs*: Focus on commercializing inventions.\n  - *Non-technical Entrepreneurs*: Develop marketing plans without tech focus.\n  - *Professional Entrepreneurs*: Form businesses but don't manage them.\n\n- **Motivation**: \n  - *Pure Entrepreneurs*: Driven by psychological, economic, and ethical factors.\n  - *Induced Entrepreneurs*: Motivated by government policies.\n  - *Motivated Entrepreneurs*: Inspired by new production/sale opportunities.""
+}","Entrepreneurs can be categorized by several factors: 
+
+- **Economic Development**: 
+  - *Innovating Entrepreneurs*: Create new products/services.
+  - *Adoptive Entrepreneurs*: Modify existing innovations for their markets.
+  - *Fabian Entrepreneurs*: Prefer traditional, low-risk methods.
+  - *Drone Entrepreneurs*: Resist change and overlook opportunities.
+
+- **Type of Business**: 
+  - *Business Entrepreneurs*: Launch new products/services.
+  - *Trading Entrepreneurs*: Engage in buying and selling.
+  - *Industrial Entrepreneurs*: Develop products/services based on customer demand.
+  - *Corporate Entrepreneurs*: Innovate within companies.
+  - *Agricultural Entrepreneurs*: Enhance agriculture through technology.
+
+- **Technology Utilization**: 
+  - *Technical Entrepreneurs*: Focus on commercializing inventions.
+  - *Non-technical Entrepreneurs*: Create marketing strategies without tech emphasis.
+  - *Professional Entrepreneurs*: Establish businesses but do not manage them.
+
+- **Motivation**: 
+  - *Pure Entrepreneurs*: Driven by psychological, economic, and ethical motives.
+  - *Induced Entrepreneurs*: Influenced by government initiatives.
+  - *Motivated Entrepreneurs*: Inspired by new production or sales opportunities.",1292,1234
+"```json
+{
+    ""summarized_answer"": ""Entrepreneurial Development Programs (EDPs) are structured initiatives aimed at training individuals to start and run successful businesses. They are crucial for those lacking formal business experience, covering business planning, financial management, marketing strategies, and risk management. Objectives include: \n- Skill Building: Impart practical skills like problem-solving, leadership, and communication.\n- Entrepreneurial Mindset: Foster proactive, innovative thinking and confidence.\n- Talent Identification: Identify and nurture entrepreneurial talent for feasible business models.\n- Encourage Innovation: Promote creative thinking for competitive market solutions.\n- Promote Economic Growth: Create jobs and stimulate regional economic development.\n- Reduce Unemployment: Offer alternative career paths to alleviate unemployment.\n- Support Financial Independence: Encourage financial planning for self-reliance in ventures.""
+}
+```","Entrepreneurial Development Programs (EDPs) are designed to train individuals in starting and managing successful businesses. They are essential for those without formal business experience, addressing areas like business planning, financial management, marketing, and risk management. Key objectives include: 
+- Skill Development: Teach practical skills such as problem-solving, leadership, and communication.
+- Entrepreneurial Mindset: Encourage proactive, innovative thinking and self-confidence.
+- Talent Recognition: Identify and cultivate entrepreneurial talent for viable business models.
+- Innovation Promotion: Foster creative thinking for competitive market solutions.
+- Economic Growth: Generate jobs and enhance regional economic development.
+- Unemployment Reduction: Provide alternative career options to combat unemployment.
+- Financial Independence: Promote financial planning for self-sufficiency in business ventures.",985,935
+,,0,0
+,,0,0
+,,0,0
+,,0,0
+,,0,0
+,,0,0
+,,0,0
+,,0,0
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
+,,0,
